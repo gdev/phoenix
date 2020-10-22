@@ -21,7 +21,7 @@ Several tweaks run automatically to deal with things like screens of different h
 
 Once Phoenix is installed, copy the `phoenix.js` file in the repo to `~/.phoenix.js`. If you use `wget` (e.g. via [Homebrew](https://brew.sh))... 
 
-	wget -O ~/.phoenix.js https://github.com/gdev/phoenix
+	wget -O ~/.phoenix.js https://raw.githubusercontent.com/gdev/phoenix-config/main/phoenix.js
 	
 ## Thats it
 
