@@ -23,6 +23,6 @@ Once Phoenix is installed, copy the `phoenix.js` file in the repo to `~/.phoenix
 
 	wget -O ~/.phoenix.js https://raw.githubusercontent.com/gdev/phoenix-config/main/phoenix.js
 	
-## Thats it
+## That's it
 
 You can follow me on social [@CaptainClinical](https://twitter.com/CaptainClinical)
