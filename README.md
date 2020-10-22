@@ -5,7 +5,7 @@ Glen de Vries's Phoenix Configuration
 
 [Phoenix](https://github.com/azamuddin/phoenix) is my macOS window manager of choice. My config is used with both single and multi-monitor setups.
 
-
+![Screenshot](MultiMonitorDemo.gif)
 
 Everything is uses the shortcut keys `ctrl-option`...
 
